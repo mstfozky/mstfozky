@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Özkaya</h1>
-<h3 align="center">"Statistics Department Student - Aspiring Data Scientist"</h3>
+<h3 align="center">"Statistics Department Student - Jr. Data Scientist"</h3>
 
 - 🌱 I’m currently learning **Data Engineering Education**
 
