@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Özkaya</h1>
 <h3 align="center">"Statistics - Jr. Data Scientist"</h3>
 
-- 🌱 I’m currently learning **Data Engineering Education**
 
 - 📫 How to reach me **comustafaozkaya@gmail.com**
 
